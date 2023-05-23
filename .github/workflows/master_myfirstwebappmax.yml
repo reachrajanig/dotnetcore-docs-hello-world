@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MyFirstWebAppMax'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10CBB04B1663478FB9293B5F3D65912E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8267D6F2E509450A8EB612E7CD691E2A }}
           package: .
